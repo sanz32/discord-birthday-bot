@@ -1,0 +1,5 @@
+# Copy to .dev.vars (git-ignored). Used by `npm run comandos`.
+DISCORD_APPLICATION_ID=
+DISCORD_TOKEN=
+# Optional: with a server id, commands are registered instantly in that server only.
+DISCORD_GUILD_ID=
